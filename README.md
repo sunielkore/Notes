@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=ozhe__GdWC8
 How does HTTPS work? What's a CA? What's a self-signed Certificate?
 https://www.youtube.com/watch?v=T4Df5_cojAs
 
+How SSL certificate works?
+https://www.youtube.com/watch?v=33VYnE7Bzpk
+
 Intro to Digital Certificates
 https://www.youtube.com/watch?v=qXLD2UHq2vk
 
