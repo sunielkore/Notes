@@ -1,4 +1,4 @@
-# Learnings
+# Tutorials
 
 Proxy vs. Reverse Proxy (Explained by Example)
 https://www.youtube.com/watch?v=ozhe__GdWC8
