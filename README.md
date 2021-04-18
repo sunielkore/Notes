@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=hExRDVZHhig
 
 Transport Layer Security, TLS 1.2 and 1.3 (Explained by Example)
 https://www.youtube.com/watch?v=AlE5X1NlHgg
+
+PATCH VS PUT
+https://medium.com/techno101/partial-updates-patch-in-spring-boot-63ff35582250
